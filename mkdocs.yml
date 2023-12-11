@@ -1,1 +1,7 @@
 site_name: My Docs
+nav:
+  - Home: index.md
+  - Page 1: AyseAyhan_NetworkSecurityMkDocs.md
+
+theme:
+  name: material

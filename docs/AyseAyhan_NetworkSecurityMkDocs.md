@@ -80,7 +80,7 @@ REFERENCES......................................................................
 **I.INTRODUCTION**
 
 Today, the rapid advancement of technology and the spread of
-digitalization cause network security to become an indispensable
+digitalization causes network security to become an indispensable
 necessity for individuals, companies and states. In this context,
 stakeholders facing various cyber threats resort to various network
 security applications and tools to ensure the security of information,
@@ -134,7 +134,7 @@ security and privacy purposes. **The primary subnet segments are as
 follows:**
 
 External Public Networks are typically referred to as the general/global
-internet or various extranets.
+Internet or various extranets.
 
 Internal Private Networks define a home network, corporate intranets,
 and other \'closed\' networks.
@@ -382,12 +382,12 @@ alerts.
 On the other hand, an Intrusion Detection System (IDS) **does not pass
 network traffic directly**. Instead, it receives a copy of data flow
 through a switch. It analyzes the copied data to detect attacks. IDS
-does not have the ability to prevent attacks but logs, sends alerts, and
+does not have the ability to prevent attacks but logs send alerts and
 informs the system administrator about potential attacks. IDS typically
 analyzes and reports on the dynamics of the network.
 
 IDS and IPS are crucial security devices used to protect network
-infrastructures critical for security and detect attacks. These systems
+infrastructures critical for security and detecting attacks. These systems
 play a critical role in defending computer networks against external
 attacks and minimizing potential security breaches.
 
@@ -468,7 +468,7 @@ software:**
 -   Evolving technology trends such as the metaverse, Web3, fintech, and
     autonomous vehicles can make finding the right antivirus protection
     more challenging. Traditional antivirus technologies may not detect
-    modern fileless attacks carried out using trusted systems like
+    modern fileless attacks are carried out using trusted systems like
     PowerShell.
 
 **Other features include:**
@@ -490,7 +490,7 @@ software:**
     programs, and internet security software packages offering malware
     signatures and antivirus protection. Popular manufacturers such as
     AVG Technologies, Kaspersky, Malwarebytes, McAfee, Norton, and Trend
-    Micro provide both free and commercial antivirus products.
+    Micro provides both free and commercial antivirus products.
 
 **Protection Against Malicious Software**
 
@@ -588,7 +588,7 @@ networks.
 For a cipher to be suitable for cryptography, it depends on four
 fundamental parameters:
 
-1\. Confidentiality: Involves ensuring that data can only be accessed by
+1\. Confidentiality: This involves ensuring that data can only be accessed by
 designated parties; otherwise, communication is not secure.
 
 2\. Authenticity/Integrity: Ensures that the received data is not
@@ -607,7 +607,7 @@ SSL/TLS Protocols: Employed for encrypting data communication over the
 internet, commonly used in banking transactions and e-commerce websites.
 
 PGP (Pretty Good Privacy): Utilized to encrypt personal and professional
-communications, particularly preferred for email security.
+communications particularly preferred for email security.
 
 IPSec (Internet Protocol Security): Used to ensure secure communication
 through virtual private networks.
@@ -724,7 +724,7 @@ networks is a significant advantage.
 
 **The Significance of NAC (Network Access Control)**
 
-NAC is a security solution enhancing visibility in corporate networks by
+NAC is a security solution that enhances visibility in corporate networks by
 classifying devices accessing the network at endpoints based on specific
 policies, reducing risks. Access control offers management over the
 operations an individual can perform on the network they are accessing.
@@ -736,7 +736,7 @@ authorizing access, conducting security scans, and continually enhancing
 security measures.
 
 The NAC solution aims to automatically identify devices connecting to
-the network, prevent insecure access, and mitigate security
+the network, prevent insecure access and mitigate security
 vulnerabilities. Particularly with the increasing security risks
 associated with BYOD, IoT devices, and guest user control, the
 importance of NAC continues to grow.
@@ -752,7 +752,7 @@ complex structure of web server applications, the potential
 vulnerability of database applications to code injection attacks, and
 the presence of insecurely written code, not considering security, can
 expose organizations to various types of attacks. Particularly,
-applications that take user input, execute code in the background, and
+applications that take user input, execute code in the background and
 interact with databases facilitate web attacks. The diversity in
 configurations and services, along with the variety of user permissions,
 enriches the attack vector of web applications. Components in the
@@ -774,7 +774,7 @@ or commands instead of normal data. HTML and JavaScript language rules
 often do not provide sufficient security control. Therefore, it is
 crucial to validate the legitimacy of user input before it is used on
 the server side. White-listing and black-listing methods can be used for
-input control. White-listing restricts inputs to specific data types,
+input control. White-listing restricts inputs to specific data types
 while black-listing filters potential malicious requests.
 
 2\. Secure Session Management:
@@ -887,7 +887,7 @@ case of loss or theft.
 
 **Compliance and Reporting:**
 
-MDM solutions often include reporting tools, assisting organizations in
+MDM solutions often include reporting tools and assisting organizations in
 assessing device compliance with security policies. This provides
 insights into potential risks and areas of improvement.
 
@@ -911,7 +911,7 @@ unintelligible.
 
 **VPNs serve to hide various aspects, including:**
 
-1.Devices: Protecting laptops, tablets, and mobile phones from
+1\. Devices: Protecting laptops, tablets, and mobile phones from
 cybercriminals, especially when connected to public Wi-Fi, preventing
 Man-in-the-Middle attacks.
 
@@ -926,7 +926,7 @@ online activities.
 **Business Benefits of VPN:**
 
 1\. Secured Connection to Shared Resources: VPNs, particularly those
-utilizing IP whitelisting, protect connections to cloud storage,
+utilizing IP whitelisting, protecting connections to cloud storage,
 file-sharing services, and work applications containing sensitive
 corporate data.
 
@@ -935,13 +935,13 @@ expensive physical network connections, VPNs save costs and resources
 while avoiding extra IT administration workload.
 
 3\. Securing Data on Mobile Devices: Installing VPN clients on
-smartphones protects remote workers accessing company servers via public
+smartphones protect remote workers from accessing company servers via public
 Wi-Fi, safeguarding against potential data breaches.
 
 ![](media/image9.jpeg){width="4.311111111111111in"
 height="4.266666666666667in"}In conclusion, advancements in VPN
-technology have addressed historical issues such as slow speeds, making
-VPNs an essential investment for businesses aiming to secure their data
+technology has addressed historical issues such as slow speeds, making
+VPNs are an essential investment for businesses aiming to secure their data
 without compromising on performance. While cost-effective VPN services
 are available, the potential cost of failed security outweighs the
 investment in reliable VPN solutions.
